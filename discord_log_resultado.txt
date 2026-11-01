@@ -1,0 +1,1 @@
+2025-11-21 23:25:16 [DISCORD LOG SUCESSO] Mensagem enviada. Codigo HTTP: 204
